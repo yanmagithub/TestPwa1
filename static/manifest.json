@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://yanmagithub.github.io/TestVue/",
+  "start_url": "https://yanmagithub.github.io/TestPwa1/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#4DBA87"
